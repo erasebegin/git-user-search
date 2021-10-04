@@ -63,7 +63,7 @@ const StyledContainer = styled.div`
   .inner-container {
     padding: 2rem;
     border-radius: 2rem;
-    box-shadow: 0px 0px 10px #bbbbbb44;
+    box-shadow: 0px 0px 10px #bbbbbb88;
     background: white;
     z-index: 2;
 

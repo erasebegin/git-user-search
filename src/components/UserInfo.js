@@ -37,7 +37,7 @@ export default function UserInfo({ data, error }) {
 const StyledContainer = styled.div`
   border-bottom-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
-  box-shadow: 0px 0px 10px #bbbbbb44;
+  box-shadow: 0px 0px 10px #bbbbbb88;
   min-width: 500px;
   padding: 2rem;
   padding-top: 4rem;
